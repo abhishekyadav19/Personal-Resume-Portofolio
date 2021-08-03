@@ -52,7 +52,7 @@
     color:#4d4d4d;}
     
     .sname{
-    font-size:2.2rem
+    font-size:2.2rem;
     font-weight:600;
     font-family:'Source Sans Pro', sans-serif;;
     color:#7e676f;}
@@ -83,7 +83,7 @@
       background: #007bb5;
       color: white;}
     
-    .content{font: size 1.8rem;
+    .content{font-size: 1.8rem;
     font-weight:600;
     font-family:'Source Sans Pro', sans-serif;
     color:#7e676f;}
@@ -111,7 +111,7 @@
       font-size: 62.5%;
     }
 
-    @media (max-width: 480px;) {
+    @media (max-width: 480px) {
       html{font-size:45%;
       }
       
